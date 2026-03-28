@@ -1,10 +1,10 @@
 // ★ ポートフォリオの内容をここに編集してください
 
 export const profile = {
-  name: "あなたの名前",
-  role: "あなたの肩書き（例：Webエンジニア）",
-  bio: "自己紹介文をここに書いてください。経歴や興味のある分野など、自由に書きましょう。",
-  avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
+  name: "舟橋剛",
+  role: "Webエンジニア",
+  bio: "エンジニア歴1年半",
+  avatarUrl: "/images/profile.png", // public/images/ に画像を置いてパスを指定
 };
 
 export const skills = [
@@ -17,7 +17,7 @@ export const skills = [
 
 export const projects = [
   {
-    title: "プロジェクト名",
+    title: "",
     description: "どんなものを作ったか、簡単な説明を書いてください。",
     techStack: ["Next.js", "TypeScript"],
     url: "https://github.com/あなたのユーザー名/リポジトリ名",
@@ -26,6 +26,6 @@ export const projects = [
 ];
 
 export const contact = {
-  github: "https://github.com/あなたのユーザー名",
-  email: "あなたのメールアドレス（任意）",
+  github: "https://github.com/arp-t-funahashi",
+  email: "t.funahashi.arp@gmail.com",
 };
