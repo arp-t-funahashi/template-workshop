@@ -17,10 +17,10 @@ export const skills = [
 
 export const projects = [
   {
-    title: "",
-    description: "どんなものを作ったか、簡単な説明を書いてください。",
+    title: "weather-outfit-app",
+    description: "今日の気温からあなたの今日の最適な服装をアドバイスします。",
     techStack: ["Next.js", "TypeScript"],
-    url: "https://github.com/あなたのユーザー名/リポジトリ名",
+    url: "https://weather-outfit-app-wine.vercel.app/",
   },
   // 複数追加できます
 ];
