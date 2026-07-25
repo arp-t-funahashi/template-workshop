@@ -8,11 +8,11 @@ export const profile = {
 };
 
 export const skills = [
-  { name: "JavaScript", level: "学習中" },
-  { name: "React", level: "学習中" },
-  { name: "TypeScript", level: "学習中" },
-  { name: "Next.js", level: "学習中" },
-  // 追加・削除してOK
+  { name: "JavaScript", level: "カーシェアAPI開発（バックエンド）" },
+  { name: "React", level: "会員サイト作成" },
+  { name: "TypeScript", level: "会員サイト作成" },
+  { name: "Next.js", level: "HP新機能追加" },
+  { name: "AWS", level: "CodeBuild hosted GitHub Actions Runner作成、VPC、ECR、TransitGateway"},
 ];
 
 export const projects = [
